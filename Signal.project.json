@@ -2,8 +2,11 @@
   "name": "Signal",
   "tree": {
     "$path": "src",
-    "DevPackages": {
-      "$path": "DevPackages"
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Packages": {
+        "$path": "DevPackages"
+      }
     }
   }
 }
