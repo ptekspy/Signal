@@ -1,0 +1,9 @@
+{
+  "name": "Signal",
+  "tree": {
+    "$path": "src",
+    "DevPackages": {
+      "$path": "DevPackages"
+    }
+  }
+}
