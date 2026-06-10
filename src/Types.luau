@@ -1,4 +1,4 @@
-
+--!strict
 -- Shared type definitions for the Signal module
 
 export type Connection = {
